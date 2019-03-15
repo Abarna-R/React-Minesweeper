@@ -1,0 +1,19 @@
+{
+   "profiles" :[
+       { 
+       "id":1,
+       "name": "abarna",
+       "score":21
+       },
+    {
+        "id":2,
+        "name": "sara",
+        "score":35
+    },
+    {
+        "id":3,
+        "name": "Kamsa",
+        "score":30
+    }
+]
+}
